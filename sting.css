@@ -1,0 +1,132 @@
+.fone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1700px;
+    height: 880px;
+    background: purple;
+}
+.phone {
+    width: 360px;
+    height: 700px;
+    border-radius: 35px;
+    background: #1E1E1E ;
+    border: 5px solid gray;
+}
+.time {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.tt {
+    border-radius: 10px;
+}
+.header {
+    display: flex;
+    width: 285px;
+    height: 30px;
+    margin-left: 10px;
+}
+.close {
+    display: flex;
+    width: 40px;
+    height: 30px;
+}
+.name{
+    position: relative;
+    width: 320px;
+    height: 17px;
+    margin-left: 40px;
+    margin-top: 8px;
+}
+.ph {position: absolute;}
+.t3 {
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    top: -15px;
+    color: aliceblue;
+}
+.name2 {
+    position: relative;
+    width: 40px;
+    height: 25px;
+}
+.close2 { position: absolute; }
+.photo {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.photo1 {
+    border-radius: 15px;
+}
+.aftor {
+    display: flex;
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.krug {
+    width: 40px;
+    height: 40px;
+}
+.krug1 {
+    border-radius: 200px;
+}
+.imya {
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 185px;
+    margin-left: 5px;
+    margin-top: 2.5px;
+}
+.nazv {
+    position: relative;
+    width: 185px;
+    height: 18px;
+}
+.avtor {
+    position: relative;
+    margin-top: 3px;
+    width: 185px;
+    height: 14px;
+}
+.foto {
+    position: relative;
+    width: 95px;
+    height: 35px;
+}
+.sh {
+    position: absolute;
+    margin-top: 2.5px;
+}
+.t1 { 
+    position: absolute;
+    font-size: 18px;
+    color: aliceblue;
+   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    top: -18px;
+}
+.t2 { 
+    position: absolute;
+    font-size: 14px;
+    color: gray;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    top: -14px;
+}
+.mp3 { position: relative;
+    width: 300px;
+    height: 108px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.Footer1 {
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.mpp { position: absolute;
+    bottom: 5px;
+    left: 123px;
+    opacity: 0;
+}
